@@ -5,14 +5,17 @@
   url: https://shop.yueming.org/
   icon: bag-heart-fill
 - text: Flickr
-  url: https://www.twitter.com/
-  icon: twitter
-- text: LinkedIn
-  url: https://www.linkedin.com/
-  icon: linkedin
-- text: Facebook
-  url: https://www.facebook.com/
-  icon: facebook
+  url: https://flickr.com/people/yymark/
+  icon: image
 - text: Instagram
-  url: https://www.instagram.com/
+  url: https://www.instagram.com/_.ymark/
   icon: instagram
+- text: Threads
+  url: https://www.threads.net/@_.ymark
+  icon: threads
+- text: Threads
+  url: https://www.threads.net/@_.ymark
+  icon: threads
+- text: Twitter
+  url: https://x.com/the2y_
+  icon: twitter
