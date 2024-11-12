@@ -5,4 +5,4 @@ avatar-alt-text: "Avatar: A yellow cartoon face with two eyes."
 interest-prefix: "Interests:"
 ---
 
-I'm Mark.
+Hi, welcome! :)
