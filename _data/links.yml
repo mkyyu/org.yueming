@@ -1,10 +1,10 @@
-- text: Website
-  url: https://www.google.com/
-  icon: globe2
-- text: GitHub
-  url: https://github.com/
-  icon: github
-- text: Twitter
+- text: Pictures
+  url: https://photos.yueming.org/
+  icon: images
+- text: Shop
+  url: https://shop.yueming.org/
+  icon: bag-heart-fill
+- text: Flickr
   url: https://www.twitter.com/
   icon: twitter
 - text: LinkedIn
