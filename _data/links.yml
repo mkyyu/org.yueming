@@ -13,3 +13,6 @@
 - text: Twitter
   url: https://x.com/the2y_
   icon: twitter
+- text: GitHub
+  url: https://github.com/mkyyu
+  icon: github
