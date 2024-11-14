@@ -7,6 +7,9 @@
 - text: Flickr
   url: https://flickr.com/people/yymark/
   icon: image
+- text: Steam
+  url: https://steamcommunity.com/id/yumark
+  icon: steam
 - text: Instagram
   url: https://www.instagram.com/_.ymark/
   icon: instagram
