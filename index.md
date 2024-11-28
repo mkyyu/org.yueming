@@ -1,8 +1,8 @@
 ---
 avatar-name: "Mark Yu"
-avatar-url: "assets/img/avatar.jpg"
-avatar-alt-text: "This is a description of what my avatar looks like for people who can't see it."
-interest-prefix: "My interests:"
+avatar-url: "assets/img/avatarmk.png"
+avatar-alt-text: "Avatar: A yellow cartoon face with two eyes."
+interest-prefix: "Interests:"
 ---
 
-I'm Mark.
+Hello, welcome! :)
