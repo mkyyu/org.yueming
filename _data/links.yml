@@ -1,12 +1,12 @@
 - text: Pictures
   url: https://photos.yueming.org/
   icon: images
-- text: Shop
-  url: https://shop.yueming.org/
-  icon: bag-heart-fill
 - text: Flickr
   url: https://flickr.com/people/yymark/
   icon: image
+- text: Shop
+  url: https://shop.yueming.org/
+  icon: bag-heart-fill
 - text: Steam
   url: https://steamcommunity.com/id/yumark
   icon: steam
@@ -14,7 +14,7 @@
   url: https://www.instagram.com/_.ymark/
   icon: instagram
 - text: Twitter
-  url: https://x.com/the2y_
+  url: https://x.com/_mkyum
   icon: twitter
 - text: GitHub
   url: https://github.com/mkyyu
